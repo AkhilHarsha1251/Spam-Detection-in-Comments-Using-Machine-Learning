@@ -18,11 +18,11 @@ Spam comments are a pervasive problem on many online platforms. They disrupt mea
 
 ## Dataset
 
-The dataset used for this project should contain labeled comments, indicating whether each comment is spam or not. The Data Set which I used was [this]. You can use a public dataset or create your own by labeling a set of comments manually.
+The dataset used for this project should contain labeled comments, indicating whether each comment is spam or not. The Data Set which I used was [this](#https://www.kaggle.com/prashant111/youtube-spam-collection). You can use a public dataset or create your own by labeling a set of comments manually.
 
-## Installation
+## Usage
 
-To get started with this project, clone the repository and install the required dependencies:
+To get started with this project, download the repository files which i have provided:
 
 ```bash
 git clone https://github.com/username/spam-detection-ml.git
