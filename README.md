@@ -9,14 +9,8 @@ This project focuses on detecting spam comments using machine learning technique
 
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Model Training](#model-training)
-6. [Evaluation](#evaluation)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+3. [Usage](#usage)
+4. [Contact](#contact)
 
 ## Introduction
 
@@ -24,7 +18,7 @@ Spam comments are a pervasive problem on many online platforms. They disrupt mea
 
 ## Dataset
 
-The dataset used for this project should contain labeled comments, indicating whether each comment is spam or not. You can use a public dataset or create your own by labeling a set of comments manually.
+The dataset used for this project should contain labeled comments, indicating whether each comment is spam or not. The Data Set which I used was [this]. You can use a public dataset or create your own by labeling a set of comments manually.
 
 ## Installation
 
